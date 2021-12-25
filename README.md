@@ -16,7 +16,7 @@
 
 - 📫 How to reach me: ...**procrastinator566@gmail.com**
 
-- ⚡ Fun fact **I am full with it lets not write here**
+- ⚡ Fun fact:... **I am full with it lets not write here**
 
 
 ## 🚀 Languages and Tools I know and i will be learning:
