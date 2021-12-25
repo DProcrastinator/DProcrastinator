@@ -1,14 +1,14 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Manohar</h1>
-<h3 align="center">Just an Enthusiastic programmer nothing more</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm procrastinator</h1>
+<h3 align="center">Just an Enthusiastic programmer. Spend more time with comouter than peoples </h3>
 
 
 ## 🙋‍♂️ About Me
 
 - 🏴‍☠️enthusiastic programmer
 
-- 🔭 I’m currently working on ..my own ideas🐱‍💻
+- 🔭 I’m currently working on ..**my own ideas🐱‍💻**
 
 - 👯 I’m looking for an **Internship Program**
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me: ...**procrastinator566@gmail.com**
 
-- ⚡ Fun fact **Got nothing here.**
+- ⚡ Fun fact **I am full with it lets not write here**
 
 
 ## 🚀 Languages and Tools I know and i will be learning:
