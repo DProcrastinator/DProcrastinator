@@ -17,7 +17,7 @@
 - ⚡ Fun fact:... **I am full with it lets not write here**
 
 
-## 🚀 Languages and Tools I know and i will be learning:
+## 🚀 Languages and Tools I know And I Will Be Learning:
 
 <p align="center"> 
     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/></a>
