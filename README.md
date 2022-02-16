@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on ..**my own ideas🐱‍💻**
 
-- 👯 I’m looking for an **Internship Program**
+- 👯 I'm seeking for... **a job as a trainee**
 
 - 🌱 I’m currently learning ...**C#,React.js**
 
