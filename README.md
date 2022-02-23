@@ -8,9 +8,7 @@
 
 - 🔭 I’m currently working on ..**my own ideas🐱‍💻**
 
-- 👯 I'm seeking for... **a job as a trainee**
-
-- 🌱 I’m currently learning ...**C#,React.js**
+- 🌱 I’m currently learning ...**Laravel And Vue.js**
 
 - 📫 How to reach me: ...**procrastinator566@gmail.com**
 
