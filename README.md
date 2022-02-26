@@ -1,8 +1,5 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Manohar</h1>
-<h3 align="center">Just an Enthusiastic programmer nothing more</h3>
-
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm procrastinator</h1>
+<h3 align="center">Spend more time with computer than homo sapiens</h3>
 
 ## 🙋‍♂️ About Me
 
@@ -10,14 +7,11 @@
 
 - 🔭 I’m currently working on ..my own ideas🐱‍💻
 
-- 👯 I’m looking for an **Internship Program**
-
-- 🌱 I’m currently learning ...**C#,php(MVC frameWork)**
+- 🌱 I’m currently learning ...**Laravel & Vue.js**
 
 - 📫 How to reach me: ...**procrastinator566@gmail.com**
 
 - ⚡ Fun fact **Got nothing here.**
-
 
 ## 🚀 Languages and Tools I know And I will be Learning:
 <p align="center"> 
@@ -37,22 +31,8 @@
     </a>
 </p>
 
-## 📊 My Github Status
-
-  <br/>
-    <a href="https://github.com/devkotaDmanohar/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=devkotaDmanohar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/devkotaDmanohar/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkotaDmanohar&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-<br/>
-<br/>
-
-<a href="https://github.com/devkotaDmanohar/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=devkotaDmanohar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
 
 ## Connect with me:
 <p align="left">
 <a href = "https://stackoverflow.com/users/15362317/who-do-you-think-am-i"><img src="https://img.icons8.com/fluency/50/000000/stackoverflow.png"/></a>
 </p>
-
