@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm procrastinator</h1>
-<h3 align="center">Spend more time with computer than homo sapiens</h3>
+<h3 align="center">I spend more time on my computer than I do with other unfortunate souls.</h3>
 
 ## 🙋‍♂️ About Me
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: ...**procrastinator566@gmail.com**
 
-- ⚡ Fun fact **Got nothing here.**
+- ⚡ Fun fact **I've got nothing here.**
 
 ## 🚀 Languages and Tools I know And I will be Learning:
 <p align="center"> 
