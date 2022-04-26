@@ -33,5 +33,4 @@
 <p align="left">
 <a href = "https://stackoverflow.com/users/15362317/who-do-you-think-am-i"><img src="https://img.icons8.com/fluency/50/000000/stackoverflow.png"/></a>
 <a href = "https://twitter.com/D_procras"><img src="https://img.icons8.com/fluency/48/000000/twitter.png"/></a>
-<a href = "https://www.upwork.com/freelancers/~01dc9296e53ce45c62"><img src="https://img.icons8.com/ios-filled/50/000000/upwork.png"/></a>
 </p>
