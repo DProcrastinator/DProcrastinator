@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **Let's not write here because I'm full of amusing facts.**
 
-## 🚀 Languages, Frameworks, and Tools that I am comfortable with and will be learning::
+## 🚀 Languages, Frameworks, and Tools that I am comfortable with and will be learning:
 <p align="center"> 
     <a href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/php.png"/></a>
     <a href="https://laravel.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/></a>
