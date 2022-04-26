@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on ..my own ideas🐱‍💻
 
-- 🌱 I’m currently learning ...**Laravel & Vue.js**
+- 🌱 I’m currently learning:**Laravel & Vue.js**
 
 - 📫 How to reach me: **procrastinator566@gmail.com**
 
-- ⚡ Fun fact **Let's not write here because I'm full of amusing facts.**
+- ⚡ Fun fact: **Let's not write here because I'm full of amusing facts.**
 
 ## 🚀 Languages, Frameworks, and Tools that I am comfortable with and will be learning:
 <p align="center"> 
