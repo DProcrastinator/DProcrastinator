@@ -5,13 +5,17 @@
 
 - 🏴‍☠️enthusiastic programmer
 
-- 🔭 I’m currently working on ..my own ideas🐱‍💻
+- 🔭 I’m currently working on ..my own ideas 🫥
 
-- 🌱 I’m currently learning:**Laravel & Vue.js**
+- 💻By profession, I am a backend developer ☮️ 
+
+- 🌱 Currently, I am learning and working in **Laravel & Vue.js**
 
 - 📫 How to reach me: **procrastinator566@gmail.com**
 
 - ⚡ Fun fact: **Let's not write here because I'm full of amusing facts.**
+
+- 🚫 **I'm not writing code in C# these days, so I believe I've completed my C# journey, which was enjoyable. I'm hoping to return there, but I'm not sure.**
 
 ## 🚀 Languages, Frameworks, and Tools that I am comfortable with and will be learning:
 <p align="center"> 
