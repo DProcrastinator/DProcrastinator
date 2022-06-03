@@ -6,9 +6,7 @@
 - 🏴‍☠️enthusiastic programmer
 
 - 🔭 I’m currently working on ..my own ideas 🫥
-
-- 💻By profession, I am a backend developer ☮️ 
-
+ 
 - 🌱 Currently, I am learning and working in **Laravel & Vue.js**
 
 - 📫 How to reach me: **procrastinator566@gmail.com**
