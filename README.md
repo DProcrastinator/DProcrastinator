@@ -13,8 +13,6 @@
 
 - ⚡ Fun fact: **Let's not write here because I'm full of amusing facts.**
 
-- 🚫 **I'm not writing code in C# these days, so I believe I've completed my C# journey, which was enjoyable. I'm hoping to return there, but I'm not sure.**
-
 ## 🚀 Languages, Frameworks, and Tools that I am comfortable with and will be learning:
 <p align="center"> 
     <a href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/php.png"/></a>
