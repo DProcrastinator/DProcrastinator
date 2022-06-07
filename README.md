@@ -1,5 +1,4 @@
-<h1 align="center">Hi, I'm procrastinator</h1><img src="![vYi0G](https://user-images.githubusercontent.com/79912843/172343162-48f012d2-7bcf-49e7-ae91-693921759759.jpg)
-" alt="procrastinator" width="40">
+<h1 align="center">Hi, I'm procrastinator</h1>
 <h3 align="center">I spend more time on my computer than I do with other unfortunate souls.</h3>
 
 ## 🙋‍♂️ About Me
