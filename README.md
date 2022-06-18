@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on ..my own ideas 🫥
  
-- 🌱 Currently, I am learning and working in **Laravel & Vue.js**
+- 🌱 Currently, I am learning in **Laravel & Vue.js**
 
 - 📫 How to reach me: **procrastinator566@gmail.com**
 
