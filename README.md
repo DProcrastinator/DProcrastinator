@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm procrastinator</h1>
+<h1 align="center">Hi,👋 I'm procrastinator</h1>
 <h3 align="center">I spend more time on my computer than I do with other unfortunate souls.</h3>
 
 ## 🙋‍♂️ About Me
@@ -7,17 +7,20 @@
 
 - 🔭 I’m currently working on ..my own ideas 🫥
  
-- 🌱 Currently, I am learning in **Laravel & Vue.js**
+- 🌱 Currently, I am learning  **Laravel & Vue.js**
 
 - 📫 How to reach me: **procrastinator566@gmail.com**
 
 - ⚡ Fun fact: **Let's not write here because I'm full of amusing facts.**
+
+- 🧑‍💻 These days, **I'm not writing code in C#. Maybe this is the end.**
 
 ## 🚀 Languages, Frameworks, and Tools that I am comfortable with and will be learning:
 <p align="center"> 
     <a href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/php.png"/></a>
     <a href="https://laravel.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/></a>
      <a href="https://vuejs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/vue-js.png"/></a>
+    <a href="https://getbootstrap.com/" target="_blank"> <img src="https://img.icons8.com/color/48/undefined/bootstrap.png"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://www.npmjs.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/npm.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a> 
