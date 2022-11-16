@@ -3,11 +3,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 🏴‍☠️enthusiastic programmer
-
-- 🔭 I’m currently working on my own ideas 🫥
+- 🏴‍☠️ Enthusiastic Programmer
  
-- 🌱 Currently, I am learning  **Laravel & Vue.js.** Focusing mostly towards full-stack development
+- 🌱 Currently, I am learning and working on **Laravel & Vue.js.** 🔭 
+
+- ☀️ Focusing mostly towards **Full-stack development.**
 
 - 📫 How to reach me: **procrastinator566@gmail.com**
 
