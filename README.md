@@ -1,4 +1,4 @@
-<h1 align="center">Hi,👋 I'm procrastinator</h1>
+<h1 align="center">Hi,👋 I'm Manohar</h1>
 <h3 align="center">I spend more time on my computer than I do with other unfortunate souls.</h3>
 
 ## 🙋‍♂️ About Me
