@@ -21,7 +21,7 @@
     <a href="https://laravel.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/></a>
      <a href="https://vuejs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/vue-js.png"/></a>
      <a href="https://pinia.vuejs.org/" target="_blank"> <img src="https://img.icons8.com/external-flatart-icons-flat-flatarticons/64/000000/external-pineapple-grocery-flatart-icons-flat-flatarticons.png"/> </a> 
-    <a href="https://getbootstrap.com/" target="_blank"> <img src="https://img.icons8.com/color/48/undefined/bootstrap.png"/> </a> 
+<!--     <a href="https://getbootstrap.com/" target="_blank"> <img src="https://img.icons8.com/color/48/undefined/bootstrap.png"/> </a>  -->
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://www.linux.org/" target="_blank"> <img src="https://img.icons8.com/color/48/null/linux--v1.png"/> </a> 
     <a href="https://www.nginx.com/" target="_blank"> <img src="https://img.icons8.com/color/48/null/nginx.png"/> </a> 
