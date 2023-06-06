@@ -1,13 +1,15 @@
-<h1 align="center">Hi,👋 I'm Manohar</h1>
+<h1 align="center">Hi,👋 I'm Manohar._.Devkota</h1>
 <h3 align="center">I spend more time on my computer than I do with other unfortunate souls.</h3>
 
 ## 🙋‍♂️ About Me
 
-- 🏴‍☠️ Enthusiastic Programmer
+- 🏴‍☠️ Enthusiastic Programmer 
  
 - 🌱 Currently, I am learning and working on **Laravel & Vue.js.** 🔭 
 
-- ☀️ Focusing mostly towards **Full-stack development.**
+-  🐧Configuring and maintaining Linux-based systems and server environments.🐧
+
+- ☀️ Focusing mostly towards **Full-stack web application development.**
 
 - 📫 How to reach me: **procrastinator566@gmail.com**
 
@@ -20,7 +22,7 @@
     <a href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/php.png"/></a>
     <a href="https://laravel.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/></a>
      <a href="https://vuejs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/vue-js.png"/></a>
-     <a href="https://pinia.vuejs.org/" target="_blank"> <img src="https://pinia.vuejs.org/logo.svg"  style="width: 70px; height: 70px;"/> </a> 
+     <a href="https://pinia.vuejs.org/" target="_blank"> <img src="https://pinia.vuejs.org/logo.svg"  style="width: 60px; height: 60px;"/> </a> 
 <!--     <a href="https://getbootstrap.com/" target="_blank"> <img src="https://img.icons8.com/color/48/undefined/bootstrap.png"/> </a>  -->
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://www.linux.org/" target="_blank"> <img src="https://img.icons8.com/color/48/null/linux--v1.png"/> </a> 
