@@ -1,7 +1,7 @@
 <h1 align="center">Hi,<img src="https://user-images.githubusercontent.com/74038190/238201079-e379a33a-b428-4385-b44f-3da16e7bac9f.gif" style="width: 40px; height: 40px;" /> I'm Manohar._.Devkota </h1>
 <h3 align="center">I spend more time on my computer than I do with other unfortunate souls.</h3>
 <div align="center"><img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Animated GIF"></div>                          
-## 🙋‍♂️ About Me
+# 🙋‍♂️ About Me
 
 - 🏴‍☠️ Enthusiastic Programmer  
  
