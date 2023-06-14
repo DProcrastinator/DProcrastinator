@@ -40,5 +40,5 @@
 ## Connect with me:
 <p align="left">
 <a href = "https://stackoverflow.com/users/15362317/who-do-you-think-am-i"><img src="https://img.icons8.com/fluency/50/000000/stackoverflow.png"/></a>
-<a href = "https://twitter.com/D_procras"><img src="https://img.icons8.com/fluency/48/000000/twitter.png"/></a>
+<a href = "https://twitter.com/D_procras"><img src="https://user-images.githubusercontent.com/74038190/241765460-cc4fe88c-7f7a-41d8-b449-34b7a178c1c6.gif" style="width: 100px; height: 90px;"/></a>
 </p>
