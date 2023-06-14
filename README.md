@@ -1,13 +1,13 @@
-<h1 align="center">Hi,👋 I'm Manohar._.Devkota</h1>
+<h1 align="center">Hi,👋 I'm Manohar._.Devkota </h1>
 <h3 align="center">I spend more time on my computer than I do with other unfortunate souls.</h3>
-
+<div align="center"><img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Animated GIF"></div>                          
 ## 🙋‍♂️ About Me
 
-- 🏴‍☠️ Enthusiastic Programmer 
+- 🏴‍☠️ Enthusiastic Programmer  
  
 - 🌱 Currently, I am learning and working on **Laravel & Vue.js.** 🔭 
 
--  🐧Configuring and maintaining Linux-based systems and server environments.🐧
+-  Configuring and maintaining Linux-based systems and server environments.🐧
 
 - ☀️ Focusing mostly towards **Full-stack web application development.**
 
@@ -21,20 +21,22 @@
 <p align="center"> 
     <a href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/php.png"/></a>
     <a href="https://laravel.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/></a>
-     <a href="https://vuejs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/vue-js.png"/></a>
+     <a href="https://vuejs.org/" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" style="width: 50px; height: 50px;"/></a>
      <a href="https://pinia.vuejs.org/" target="_blank"> <img src="https://pinia.vuejs.org/logo.svg"  style="width: 60px; height: 60px;"/> </a> 
 <!--     <a href="https://getbootstrap.com/" target="_blank"> <img src="https://img.icons8.com/color/48/undefined/bootstrap.png"/> </a>  -->
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" style="width: 60px; height: 30px;" /> </a> 
     <a href="https://www.linux.org/" target="_blank"> <img src="https://img.icons8.com/color/48/null/linux--v1.png"/> </a> 
     <a href="https://www.nginx.com/" target="_blank"> <img src="https://img.icons8.com/color/48/null/nginx.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a> 
+<a href="https://www.linux.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/74038190/238200433-3fb2cdf6-8920-462e-87a4-95af376418aa.gif" style="width: 70px; height: 70px;"/> </a>
 </p>
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
-
-
-
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" style="width: 400px; height: 400px;" alt="Animated GIF">
+</div>
+ 
 ## Connect with me:
 <p align="left">
 <a href = "https://stackoverflow.com/users/15362317/who-do-you-think-am-i"><img src="https://img.icons8.com/fluency/50/000000/stackoverflow.png"/></a>
