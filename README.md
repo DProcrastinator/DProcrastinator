@@ -14,7 +14,6 @@
 
 - ⚡ Fun fact: **Let's not write here because I'm full of amusing facts.**
 
-- 🧑‍💻 These days, **I'm not writing code in C#. Maybe this is the end.**
 
 ## 🚀 Languages, Frameworks, and Tools that I am comfortable with and will be learning:
 <p align="center"> 
