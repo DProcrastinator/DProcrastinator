@@ -4,7 +4,7 @@
 
 - 🏴‍☠️ Enthusiastic Programmer  
  
-- 🌱 Currently, I am learning and working on **Laravel & Vue.js.** 🔭 
+- 🌱 Currently, I am learning and working on **Laravel , Vue.js & React.** 🔭 
 
 -  Configuring and maintaining Linux-based systems and server environments.🐧
 
@@ -20,15 +20,13 @@
     <a href="https://laravel.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/></a>
      <a href="https://vuejs.org/" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" style="width: 50px; height: 50px;"/></a>
      <a href="https://pinia.vuejs.org/" target="_blank"> <img src="https://pinia.vuejs.org/logo.svg"  style="width: 60px; height: 60px;"/></a> 
+     <a href="https://react.dev/" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" style="width: 50px; height: 50px;"/></a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" style="width: 60px; height: 30px;" /> </a> 
     <a href="https://www.linux.org/" target="_blank"> <img src="https://img.icons8.com/color/48/null/linux--v1.png"/></a> 
     <a href="https://www.nginx.com/" target="_blank"> <img src="https://img.icons8.com/color/48/null/nginx.png"/></a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/></a> 
 <a href="https://www.linux.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/74038190/238200433-3fb2cdf6-8920-462e-87a4-95af376418aa.gif" style="width: 70px; height: 70px;"/></a>
 </p>
-
-
- 
 ## Connect with me:
 <p align="left">
 <a href = "https://stackoverflow.com/users/15362317/who-do-you-think-am-i"><img src="https://img.icons8.com/fluency/50/000000/stackoverflow.png"/></a>
