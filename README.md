@@ -4,7 +4,7 @@
 
 - 🏴‍☠️ Enthusiastic Programmer  
  
-- 🌱 Currently, I am learning and working on ** Fast Api, Laravel, Vue.js** 🔭 
+- 🌱 Currently, I am learning and working on **Fast Api** 🔭 
 
 -  Configuring and maintaining Linux-based systems and server environments.🐧
 
