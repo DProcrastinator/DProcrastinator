@@ -16,6 +16,7 @@
 
 ## 🚀 Languages, Frameworks, and Tools that I am comfortable with:
 <p align="center"> 
+    <a href="https://fastapi.tiangolo.com/" target="_blank"> <img src="https://img.icons8.com/clouds/60/python.png"/></a>
     <a href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/php.png"/></a>
     <a href="https://laravel.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/></a>
      <a href="https://vuejs.org/" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" style="width: 50px; height: 50px;"/></a>
@@ -23,7 +24,7 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" style="width: 60px; height: 30px;" /> </a> 
     <a href="https://www.linux.org/" target="_blank"> <img src="https://img.icons8.com/color/48/null/linux--v1.png"/></a> 
     <a href="https://www.nginx.com/" target="_blank"> <img src="https://img.icons8.com/color/48/null/nginx.png"/></a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/></a> 
+    <a style="padding-right:8px;" href="https://www.docker.com/" target="_blank"> <img src="https://img.icons8.com/color/55/docker.png"/></a> 
 <a href="https://www.linux.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/74038190/238200433-3fb2cdf6-8920-462e-87a4-95af376418aa.gif" style="width: 70px; height: 70px;"/></a>
 </p>
 
